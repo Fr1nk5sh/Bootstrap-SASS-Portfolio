@@ -12174,6 +12174,10 @@ textarea.form-control-lg {
   font-weight: 600;
 }
 
+section, h2, div {
+  scroll-margin-top: 5.5rem;
+}
+
 .portfolio {
   padding: 4rem 0;
 }
